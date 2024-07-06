@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adams</h1>
+<h1 align="center">Hi👋, I'm Adams</h1>
 <h3 align="center">I'm a passionate software developer from Ghana.</h3>
 
 - 💻 All my projects are available at https://github.com/OB-Adams?tab=repositories
