@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OB-Adams?tab=repositories](https://github.com/OB-Adams?tab=repositories)
   
-- 🌱 I’m currently learning **express**
+- 🌱 I’m currently learning **express.js**
 
 - 💬 Ask me about **javascript, react, nodejs**
 
