@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **express.js**
 
-- 💬 Ask me about **javascript, react, nodejs**
+- 💬 Ask me about *react, express, mongodb**
 
 - 📫 How to reach me **obobadams@gmail.com**
 
