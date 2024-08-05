@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OB-Adams?tab=repositories](https://github.com/OB-Adams?tab=repositories)
   
-- 🌱 I’m currently learning **express.js**
+- 🌱 I’m currently learning **mongoDB**
 
-- 💬 Ask me about *react, express, mongodb**
+- 💬 Ask me about **react, express, mongoDB**
 
 - 📫 How to reach me **obobadams@gmail.com**
 
