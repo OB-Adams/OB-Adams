@@ -1,58 +1,112 @@
-<h1 align="center">Hi 👋, I'm Adams</h1>
-<h3 align="center">A passionate fullstack developer from Ghana 🇬🇭</h3>
+# Hi, I'm Ebenezer Obiri Adams 👋
 
-- 👨‍💻 All of my projects are available at [github.com/OB-Adams?tab=repositories](https://github.com/OB-Adams?tab=repositories)
+### Linux • Cloud • Systems Administration • DevOps
 
-- 🌱 I’m currently diving deep into **Next.js**, **Docker**, and **containerized app development**
+I'm a Computer Science graduate focused on Linux administration, cloud infrastructure, networking, monitoring, and automation.
 
-- 💬 Ask me about: **React**, **Express**, **MongoDB**, **Linux**, and **Containers**
+Most of what I know, I learned by breaking things on purpose. I set up virtual machines running Ubuntu and Rocky Linux, configured networks and services, deployed applications with Docker, wrote automation scripts, and built monitoring and logging systems with Prometheus, Grafana, Loki, and Alertmanager.
 
-- 📫 Reach me at: **obobadams@gmail.com**
+I enjoy understanding how systems work, troubleshooting problems, and turning manual processes into reliable and repeatable infrastructure.
+
+## 🛠️ Technologies & Skills
+
+**Linux & Systems**
+- Linux administration
+- Ubuntu & Rocky Linux
+- Bash
+- Systemd
+- SSH
+- DNS
+- Firewall configuration
+- System troubleshooting
+
+**Cloud & Infrastructure**
+- Oracle Cloud Infrastructure (OCI)
+- AWS
+- Compute & networking
+- IAM
+- Virtual machines
+- Cloud infrastructure
+
+**DevOps & Automation**
+- Docker
+- Docker Compose
+- Git & GitHub
+- NGINX
+- Infrastructure automation
+- Monitoring & observability
+
+**Observability**
+- Prometheus
+- Grafana
+- Loki
+- Promtail
+- Alertmanager
+- Metrics & alerting
+- Centralized logging
+
+**Networking**
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Routing
+- Network troubleshooting
+- CCNA concepts
+
+## 🚀 Featured Projects
+
+### 🔭 Linux Observability Lab
+
+A centralized monitoring and logging environment built with Prometheus, Grafana, Loki, Promtail, and Alertmanager.
+
+- Linux host monitoring
+- Centralized log collection
+- Prometheus metrics
+- Grafana dashboards
+- Alerting with Alertmanager
+- Discord notifications
+- Ubuntu & Rocky Linux hosts
+
+### 🐳 Dockerized Applications
+
+Containerized applications using Docker and Docker Compose, including multi-container deployments with databases, reverse proxies, and application replicas.
+
+### 🌐 Linux DNS Lab
+
+A virtualized Linux networking environment using Ubuntu and Rocky Linux to practice:
+
+- BIND DNS
+- Forward and reverse DNS
+- Static networking
+- Routing
+- Firewall configuration
+- Linux troubleshooting
+
+## 📚 Certifications & Professional Development
+
+- Oracle Cloud Infrastructure Foundations Associate
+- Cloud infrastructure
+- Linux administration
+- Networking
+- Security fundamentals
+- DevOps practices
+
+## 🎯 Areas of Interest
+
+- Linux / Systems Administration
+- Cloud Infrastructure
+- DevOps
+- Infrastructure Support
+- Cloud Support
+- Network Administration
+- Infrastructure Automation
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with people working in Linux, cloud, infrastructure, and DevOps.
+
+📫 **LinkedIn:** [Connect with me on LinkedIn](YOUR_LINKEDIN_URL)
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-</p>
+> Building systems, breaking systems, fixing systems, and learning something from each one.
